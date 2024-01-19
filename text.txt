@@ -1,1 +1,1 @@
-I am teaching git
+I am teaching Git
